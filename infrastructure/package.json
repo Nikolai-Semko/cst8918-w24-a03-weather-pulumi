@@ -6,8 +6,9 @@
         "typescript": "^5.0.0"
     },
     "dependencies": {
-        "@pulumi/azure-native": "^3.5.0",
+        "@pulumi/azure-native": "^2.60.0",
         "@pulumi/docker": "^4.7.0",
-        "@pulumi/pulumi": "^3.113.0"
+        "@pulumi/pulumi": "^3.171.0",
+        "redis": "^5.1.0"
     }
 }
